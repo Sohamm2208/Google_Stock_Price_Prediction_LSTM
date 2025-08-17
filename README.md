@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to predict Google's stock prices using a Recurrent Neural Network (RNN) built with LSTM (Long Short-Term Memory) layers. The model is trained on historical stock price data and attempts to forecast future prices, providing a visualization of both the real and predicted stock prices.
+This project aims to predict Google's stock prices using a LSTM (Long Short-Term Memory) network. The model is trained on historical stock price data and attempts to forecast future prices, providing a visualization of both the real and predicted stock prices.
 
 ## Project Structure
 
